@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: NP-complete problem.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no number and no volume in cook1971complexity
+Warning--empty address in claymillennium
+Warning--empty year in cormen2009introduction
+Warning--using n.d. in cormen2009introduction
+Warning--no journal in cormen2009introduction
+Warning--no number and no volume in cormen2009introduction
+Warning--page numbers missing in both pages and numpages fields in cormen2009introduction
+Warning--no number and no volume in J2014The
+Warning--page numbers missing in both pages and numpages fields in J2014The
+Warning--no journal in karp1972reducibility
+Warning--no number and no volume in karp1972reducibility
+Warning--page numbers missing in both pages and numpages fields in karp1972reducibility
+Warning--no journal in yilmaz2020analysis
+Warning--no number and no volume in yilmaz2020analysis
+Warning--page numbers missing in both pages and numpages fields in yilmaz2020analysis
+Warning--no journal in christofides1976worst
+Warning--no number and no volume in christofides1976worst
+Warning--page numbers missing in both pages and numpages fields in christofides1976worst
+Warning--unusual to have number, but no volume, for 2020Parameterized
+Warning--page numbers missing in both pages and numpages fields in 2020Parameterized
+Warning--no number and no volume in Josep2006Kernels
+Warning--page numbers missing in both pages and numpages fields in Josep2006Kernels
+Warning--no number and no volume in garey1979computers
+Warning--page numbers missing in both pages and numpages fields in garey1979computers
+Warning--page numbers missing in both pages and numpages fields in 1998An
+Warning--empty publisher in dinur2005analytical
+Warning--empty address in dinur2005analytical
+Warning--empty address in sipser2012introduction
+You've used 18 entries,
+            6273 wiz_defined-function locations,
+            1768 strings with 22863 characters,
+and the built_in function-call counts, 18388 in all, are:
+= -- 2535
+> -- 558
+< -- 0
++ -- 192
+- -- 200
+* -- 1250
+:= -- 1768
+add.period$ -- 92
+call.type$ -- 18
+change.case$ -- 120
+chr.to.int$ -- 18
+cite$ -- 46
+duplicate$ -- 1588
+empty$ -- 1150
+format.name$ -- 256
+if$ -- 4661
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 69
+newline$ -- 182
+num.names$ -- 126
+pop$ -- 692
+preamble$ -- 1
+purify$ -- 259
+quote$ -- 0
+skip$ -- 498
+stack$ -- 0
+substring$ -- 1188
+swap$ -- 115
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 300
+warning$ -- 28
+while$ -- 105
+width$ -- 0
+write$ -- 370
+(There were 28 warnings)

@@ -1,0 +1,233 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{18}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Cook and Stephen(1971)]%
+        {cook1971complexity}
+\bibfield{author}{\bibinfo{person}{Cook} {and} \bibinfo{person}{A. Stephen}.}
+  \bibinfo{year}{1971}\natexlab{}.
+\newblock \showarticletitle{The complexity of theorem-proving procedures}.
+\newblock \bibinfo{journal}{\emph{ACM}} (\bibinfo{year}{1971}),
+  \bibinfo{pages}{151--158}.
+\newblock
+
+
+\bibitem[Carlson et~al\mbox{.}(2006)]%
+        {claymillennium}
+\bibfield{author}{\bibinfo{person}{J Carlson}, \bibinfo{person}{A Jaffe}, {and}
+  \bibinfo{person}{A Wiles}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The Millennium Prize Problems}}.
+\newblock \bibinfo{publisher}{The millennium prize problems}.
+\newblock
+
+
+\bibitem[Cormen et~al\mbox{.}({[n.\,d.]})]%
+        {cormen2009introduction}
+\bibfield{author}{\bibinfo{person}{T.~H. Cormen}, \bibinfo{person}{C.~E.
+  Leiserson}, \bibinfo{person}{R.~L. Rivest}, {and} \bibinfo{person}{C.
+  Stein}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \showarticletitle{Introduction to Algorithms, 3rd Ed}.
+\newblock  (\bibinfo{year}{[n.\,d.]}).
+\newblock
+
+
+\bibitem[Gutin et~al\mbox{.}(2001)]%
+        {J2014The}
+\bibfield{author}{\bibinfo{person}{Gregory Gutin}, \bibinfo{person}{Abraham
+  Punnen}, \bibinfo{person}{Alexander Barvinok}, \bibinfo{person}{Edward~Kh.
+  Gimadi}, {and} \bibinfo{person}{Anatoliy~I. Serdyukov}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{The traveling salesman problem and its variations}.
+\newblock \bibinfo{journal}{\emph{Springer US}} (\bibinfo{year}{2001}).
+\newblock
+
+
+\bibitem[Karp(1962)]%
+        {held1962dynamic}
+\bibfield{author}{\bibinfo{person}{Held Richard~M. Karp}.}
+  \bibinfo{year}{1962}\natexlab{}.
+\newblock \showarticletitle{A Dynamic Programming Approach to Sequencing
+  Problems}.
+\newblock \bibinfo{journal}{\emph{Journal of the Society for Industrial \&
+  Applied Mathematics}} \bibinfo{volume}{10}, \bibinfo{number}{1}
+  (\bibinfo{year}{1962}), \bibinfo{pages}{196--210}.
+\newblock
+
+
+\bibitem[Karp(1972)]%
+        {karp1972reducibility}
+\bibfield{author}{\bibinfo{person}{R. Karp}.} \bibinfo{year}{1972}\natexlab{}.
+\newblock \showarticletitle{Reducibility among combinatorial problems" in
+  complexity of computer computations}.
+\newblock  (\bibinfo{year}{1972}).
+\newblock
+
+
+\bibitem[Violina(2021)]%
+        {yilmaz2020analysis}
+\bibfield{author}{\bibinfo{person}{Sriyani Violina}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Analysis of Brute Force and Branch \& Bound
+  Algorithms to solve the Traveling Salesperson Problem (TSP)}.
+\newblock  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[Rosenkrantz et~al\mbox{.}(1976)]%
+        {christofides1976worst}
+\bibfield{author}{\bibinfo{person}{Daniel~J Rosenkrantz},
+  \bibinfo{person}{Richard~E Stearns}, {and} \bibinfo{person}{Philip M.~Lewis
+  Ii}.} \bibinfo{year}{1976}\natexlab{}.
+\newblock \showarticletitle{Worst-case analysis of a new heuristic for the
+  traveling salesman problem}.
+\newblock  (\bibinfo{year}{1976}).
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2020)]%
+        {2020Parameterized}
+\bibfield{author}{\bibinfo{person}{Wenjun Li}, \bibinfo{person}{Yang Ding},
+  \bibinfo{person}{Yongjie Yang}, \bibinfo{person}{R.~Simon Sherratt},
+  \bibinfo{person}{Jong~Hyuk Park}, {and} \bibinfo{person}{Jin Wang}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Parameterized algorithms of fundamental NP-hard
+  problems: a survey}.
+\newblock \bibinfo{journal}{\emph{SpringerOpen}} \bibinfo{number}{1}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[Díaz et~al\mbox{.}(2006)]%
+        {Josep2006Kernels}
+\bibfield{author}{\bibinfo{person}{Josep Díaz}, \bibinfo{person}{Jordi Petit},
+  {and} \bibinfo{person}{Dimitrios~M. Thilikos}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Kernels for the Vertex Cover Problem on the
+  Preferred Attachment Model}.
+\newblock \bibinfo{journal}{\emph{Springer-Verlag}} (\bibinfo{year}{2006}).
+\newblock
+
+
+\bibitem[Garey and Johnson(1983)]%
+        {garey1979computers}
+\bibfield{author}{\bibinfo{person}{Michael~R Garey} {and}
+  \bibinfo{person}{David~S Johnson}.} \bibinfo{year}{1983}\natexlab{}.
+\newblock \showarticletitle{Computers and Intractability: A Guide to the Theory
+  of NP-Completeness}.
+\newblock \bibinfo{journal}{\emph{W. H. Freeman}} (\bibinfo{year}{1983}).
+\newblock
+
+
+\bibitem[Savelsbergh et~al\mbox{.}(1998)]%
+        {1998An}
+\bibfield{author}{\bibinfo{person}{Martin W.~P. Savelsbergh},
+  \bibinfo{person}{R.~N. Uma}, {and} \bibinfo{person}{Joel Wein}.}
+  \bibinfo{year}{1998}\natexlab{}.
+\newblock \showarticletitle{An experimental study of LP-based approximation
+  algorithms for scheduling problems}.
+\newblock \bibinfo{journal}{\emph{Informs Journal on Computing}}
+  \bibinfo{volume}{17}, \bibinfo{number}{1} (\bibinfo{year}{1998}).
+\newblock
+
+
+\bibitem[Dinur and Safra(2005)]%
+        {dinur2005analytical}
+\bibfield{author}{\bibinfo{person}{I. Dinur} {and} \bibinfo{person}{S. Safra}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Analytical Approach to PCPs: The Characterization
+  of NP}. In \bibinfo{booktitle}{\emph{Proceedings of the 46th Annual IEEE
+  Symposium on Foundations of Computer Science}}. \bibinfo{pages}{2--12}.
+\newblock
+
+
+\bibitem[Chen et~al\mbox{.}(2001)]%
+        {chen2006improved}
+\bibfield{author}{\bibinfo{person}{Jianer Chen}, \bibinfo{person}{Iyad~A.
+  Kanj}, {and} \bibinfo{person}{Weijia Jia}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Vertex Cover: Further Observations and Further
+  Improvements}.
+\newblock \bibinfo{journal}{\emph{Journal of Algorithms}} \bibinfo{volume}{41},
+  \bibinfo{number}{2} (\bibinfo{year}{2001}), \bibinfo{pages}{280--301}.
+\newblock
+
+
+\bibitem[Fomin and Kaski(2013)]%
+        {fomin2016exact}
+\bibfield{author}{\bibinfo{person}{Fedor~V. Fomin} {and}
+  \bibinfo{person}{Petteri Kaski}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Exact Exponential Algorithms}.
+\newblock \bibinfo{journal}{\emph{Communications of the Acm}}
+  \bibinfo{volume}{56}, \bibinfo{number}{3} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{80--88}.
+\newblock
+
+
+\bibitem[Dell and Melkebeek(2014)]%
+        {2014Satisfiability}
+\bibfield{author}{\bibinfo{person}{Holger Dell} {and}
+  \bibinfo{person}{Dieter~Van Melkebeek}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Satisfiability Allows No Nontrivial Sparsification
+  Unless The Polynomial-Time Hierarchy Collapses}.
+\newblock \bibinfo{journal}{\emph{Journal of the ACM (JACM)}}
+  \bibinfo{volume}{61}, \bibinfo{number}{4} (\bibinfo{year}{2014}),
+  \bibinfo{pages}{1--27}.
+\newblock
+
+
+\bibitem[Scott et~al\mbox{.}(2009)]%
+        {Scott2009Algebrization}
+\bibfield{author}{\bibinfo{person}{Scott}, \bibinfo{person}{Aaronson},
+  \bibinfo{person}{Avi}, {and} \bibinfo{person}{Wigderson}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Algebrization: A New Barrier in Complexity Theory}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Computation Theory}}
+  \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{2009}),
+  \bibinfo{pages}{1--54}.
+\newblock
+
+
+\bibitem[Sipser(1973)]%
+        {sipser2012introduction}
+\bibfield{author}{\bibinfo{person}{Michael Sipser}.}
+  \bibinfo{year}{1973}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Introduction to the theory of
+  computation}}.
+\newblock \bibinfo{publisher}{Introduction to the theory of computation}.
+\newblock
+
+
+\end{thebibliography}
